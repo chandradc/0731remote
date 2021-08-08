@@ -2,3 +2,4 @@ First file
 second line
 newline
 22222
+oranges
